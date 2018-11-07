@@ -1,4 +1,4 @@
-* {
+﻿* {
   box-sizing: border-box;
 }
 @import url(https://fonts.googleapis.com/css?family=Anton);
@@ -474,8 +474,6 @@ text-align: left;
   /*foter */
     
 footer {
-  position: fixed; 
-  left: 0; bottom: 0;
   width: 100%;
   font-size: 20px;
 }
